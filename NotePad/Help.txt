@@ -1,0 +1,9 @@
+MYNotepad
+
+Developed By	:	Nitesh Kumar Jotiyana	[4BE/4013/07]
+			
+Main CLASS	:	Notepad.java
+TOTAL SIZE	:	20.5 KB
+TOTAL CLASSES	:	22
+
+WORKING FUNCTION:	Exit,Cut,Copy,Paste,Delete,selectAll,Date/Time,Font,Graph,Help.
